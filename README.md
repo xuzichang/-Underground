@@ -4,3 +4,4 @@
 多媒体课程设计。
 
 ![image](https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/1.1.png)
+<img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/1.1.png" width="375"/>
