@@ -5,6 +5,7 @@
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final02.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final03.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final04.png" width="750"/>
+
 ## 对各个场景的简单描述
 总体框架：游戏界面分为左右两个部分，左边为游戏主界面，右边是生命值数据界面。生命值数据根据角色能够动态变化。
 场景一：通过上下键可以在三个难度中选择，Enter键进入对应第二个场景。（见图1.1）。
