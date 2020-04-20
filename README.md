@@ -1,7 +1,8 @@
 # 东方Underground
 主要类型为包含躲避和射击元素的H5弹幕游戏。参考游戏《东方project》。多媒体课程设计。
+### [视频demo](https://github.com/xuzichang/TouhouUnderground/blob/master/%E4%B8%9C%E6%96%B9Underground_Demo.mp4)
 
-## 设计思路 
+## 一、设计思路 
 代码主要功能可分为：主调用的文件的Game。提供对象方法的Player、Enemy、Boss、Bullet。
 ### 1. 主文件Game中，主要有三个模块。
 > * 动画函数调用的mainLoop函数。
@@ -17,7 +18,7 @@
 > * Bullet的Update
 根据传入的angle计算出坐标；判定角色生命值 -1的函数。
 
-## 对各个场景的简单描述
+## 二、对各个场景的简单描述
 总体框架：游戏界面分为左右两个部分，左边为游戏主界面，右边是生命值数据界面。生命值数据根据角色能够动态变化。
 
 场景一：通过上下键可以在三个难度中选择，Enter键进入对应第二个场景。（见图1.1）。
@@ -34,7 +35,7 @@
 	形态二是花瓣形状。（见下图1.3.2）
 	形态三是花瓣形状和旋转激光的组合。（见下图1.3.3）
 		
-## 最终实现效果如下
+## 三、最终实现效果如下
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final01.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final02.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final03.png" width="750"/>
