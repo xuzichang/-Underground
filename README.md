@@ -34,7 +34,7 @@
 	形态二是花瓣形状。（见下图1.3.2）
 	形态三是花瓣形状和旋转激光的组合。（见下图1.3.3）
 		
-## 三、最终实现效果如下
+## 三、最终实现效果
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final01.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final02.png" width="750"/>
 <img src="https://github.com/xuzichang/TouhouUnderground/blob/master/ImgForReadme/final03.png" width="750"/>
