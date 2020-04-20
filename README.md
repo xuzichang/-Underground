@@ -1,6 +1,5 @@
 # 东方Underground
-主要类型为包含躲避和射击元素的H5弹幕游戏。参考游戏《东方project》。多媒体课程设计。
-### [视频demo](https://github.com/xuzichang/TouhouUnderground/blob/master/%E4%B8%9C%E6%96%B9Underground_Demo.mp4)
+主要类型为包含躲避和射击元素的H5弹幕游戏。参考游戏《东方project》。多媒体课程设计。### [视频demo](https://github.com/xuzichang/TouhouUnderground/blob/master/%E4%B8%9C%E6%96%B9Underground_Demo.mp4)
 
 ## 一、设计思路 
 代码主要功能可分为：主调用的文件的Game。提供对象方法的Player、Enemy、Boss、Bullet。
